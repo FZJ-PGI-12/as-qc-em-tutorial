@@ -1,7 +1,8 @@
 # Autumn School Quantum Computing and Simulations for Energy Materials
 ## Qiskit tutorial
 
-[![pipeline status](https://jugit.fz-juelich.de/pgi-12/documents/teaching/autumn_school_qcs_energy_materials/badges/main/pipeline.svg)](https://jugit.fz-juelich.de/pgi-12/documents/teaching/autumn_school_qcs_energy_materials/-/commits/main) 
+[![Running Test in CI](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/python-package-conda.yml)
+
 
 This is an tutorial to get you started with the basics of quantum computation and the syntax used in Qiskit.
 
