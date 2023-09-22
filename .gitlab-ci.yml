@@ -1,0 +1,17 @@
+stages:
+    - test
+
+image: jugit-registry.fz-juelich.de/pgi-12/projects/tools/gitlabci-base
+
+test:
+    stage: test
+    tags:
+        - docker
+    script:
+        - source "${HOME}/conda/etc/profile.d/conda.sh"
+        - conda activate
+        - conda install pip
+        - pip install -r requirements.txt
+        - pytest --nbmake T*.ipynb
+
+
