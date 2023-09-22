@@ -1,9 +1,11 @@
-qiskit
-jupyter
+
 numpy
 scipy
 matplotlib
 pylatexenc
+jupyter
+qiskit
+qiskit-aer
 # for testing
 pytest
 nbval
