@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+jupyter
+numpy
+scipy
+matplotlib
+jupyter
+pylatexenc
+# for testing
+pytest
+nbmake
