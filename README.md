@@ -1,7 +1,7 @@
 # Autumn School Quantum Computing and Simulations for Energy Materials
 ## Qiskit tutorial
 
-[![Running Test in CI](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/pytest.yml/badge.svg)](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/pytest.yml)
+[![Running Test in CI](https://github.com/FZJ-PGI-12/as-qc-em-tutorial/actions/workflows/pytest.yml/badge.svg)](https://github.com/FZJ-PGI-12/qc-programming-tutorial/actions/workflows/pytest.yml)
 
 
 This is an tutorial to get you started with the basics of quantum computation and the syntax used in Qiskit.
